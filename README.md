@@ -14,13 +14,17 @@ You can then set the same web hook URL But different store page
 
 # DEPENDENCIES -
 Python3
-#Newish version of pip
-#NOTE YOU NEED TO HAVE THESE LIBRARIES INSTALLED VIA CMD OR IDE CMD
+
+Newish version of pip
+
+NOTE YOU NEED TO HAVE THESE LIBRARIES INSTALLED VIA CMD OR IDE CMD
+
 bs4 | pip install bs4
+
 requests | pip install requests
+
 dhooks | pip install dhooks
 
 # If you did all this you are good to go!
 Enjoy!
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------#
